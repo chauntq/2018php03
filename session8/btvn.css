@@ -1,0 +1,332 @@
+
+
+*{
+	padding: 0;
+	margin: 0;
+}
+header{
+	width: 99%;
+	height: 100px;
+	background-color: #9CC6F6;
+	margin-bottom: 10px;
+}
+header p{
+	font-weight: bold;
+	margin-left: 10px;
+	font-size: 20px;
+}
+.h1{
+	width: 16%;
+	height: 50px;
+	background-color: #D0E1FD;
+	float: left;
+	margin-top: 10px;
+	margin-left: 15px;
+	
+	
+}
+.h2{
+	width: 54%;
+	height: 50px;
+	background-color: #D0E1FD;
+	float: left;
+	margin-top: 10px;
+	margin-left: 15px;
+	
+	
+}
+.h3{
+	width: 22%;
+	height:50px;
+	background-color: #D0E1FD;
+	float: left;
+	margin-top: 10px;
+	margin-left: 15px;
+	margin-right: 10px;
+}
+section div .a{
+	width: 100%;
+	height: 200px;
+	margin-bottom: 10px;
+}
+.hero{
+	width: 74%;
+	height: 200px;
+	background-color: #9CC6F6;
+	margin-bottom: 10px;
+	margin-right: 19px;
+	float: left;
+}
+.hero p{
+	font-weight: bold;
+	margin-left: 10px;
+	font-size: 20px;
+	}
+.Heroa{
+	width: 65%;
+	height: 150px;
+	background-color: #D0E1FD;
+	float: left;
+	margin-right:15px;
+	margin-left: 15px;
+	margin-top: 10px;
+}
+.Herob{
+	width: 29%;
+	height: 150px;
+	background-color: #D0E1FD;
+	float: left;
+	margin-top: 10px;
+}
+.hero2{
+	width: 23.2%;
+	height: 200px;
+	background-color: #70A7DD;
+	float: left;
+}
+section div #b{
+	width: 100%;
+	height: 400px;
+}
+#b .bdy{
+	width: 74%;
+	height: 300px;
+	background-color: #9CC6F6;
+	margin-bottom: 10px;
+	margin-right: 23px;
+	float: left;
+}
+#b .bdy p{
+	font-weight: bold;
+	margin-left: 10px;
+	font-size: 20px;
+	}
+#b .b1{
+	width: 65%;
+	height: 250px;
+	background-color: #D0E1FD;
+	float: left;
+	margin-right:15px;
+	margin-left: 15px;
+	margin-top: 10px;
+}
+#b .b2{
+	width: 27%;
+	height: 250px;
+	background-color: #D0E1FD;
+	float: left;
+	margin-top: 10px;
+}
+#b .b3{
+	display: none;
+}
+#b .sidebar p{
+	font-weight: bold;
+	margin-left: 10px;
+	font-size: 20px;
+	}
+#b .sidebar{
+	width: 23.2%;
+	height: 300px;
+	background-color: #9DC5F8;
+	float: left;
+	margin-left: -5px;
+}
+#b .sidebar1{
+	width: 90%;
+	height: 253px;
+	background-color: #D0E1FD;
+	margin-left: 13px;
+	margin-top: 10px;}
+footer{
+	width: 100%;
+	height: 100px;
+	background-color: #9DC5F8;
+	float: left;
+}
+footer p{
+	font-weight: bold;
+	margin-left: 10px;
+	font-size: 20px;
+	}
+@media screen and (max-width: 768px){
+	header{
+	width: 100%;
+	height: 100px;
+	background-color: #9CC6F6;
+	margin-bottom: 10px;
+}
+header p{
+	font-weight: bold;
+	margin-left: 10px;
+	font-size: 20px;
+}
+.h1{
+	width: 15%;
+	height: 50px;
+	background-color: #D0E1FD;
+	float: left;
+	margin-top: 10px;
+	margin-left: 15px;
+
+	
+}
+.h2{
+	width: 54%;
+	height: 50px;
+	background-color: #D0E1FD;
+	float: left;
+	margin-top: 10px;
+	margin-left: 15px;
+
+	
+}
+.h3{
+	width: 19%;
+	height:50px;
+	background-color: #D0E1FD;
+	float: left;
+	margin-top: 10px;
+	margin-right: 10px;
+}
+section div .a{
+	width: 100%;
+	height: 200px;
+	margin-bottom: 10px;
+}
+.hero{
+	width: 100%;
+	height: 220px;
+	background-color: #9CC6F6;
+	margin-bottom: 10px;
+	margin-right: 23px;
+	float: left;
+}
+.hero p{
+	font-weight: bold;
+	margin-left: 10px;
+	font-size: 20px;
+	}
+.Heroa{
+	width: 96%;
+	height: 80px;
+	background-color: #D0E1FD;
+	float: left;
+	margin-right:15px;
+	margin-left: 15px;
+	margin-top: 10px;
+}
+.Herob{
+	width: 96%;
+	height: 80px;
+	background-color: #D0E1FD;
+	float: left;
+	margin-right:15px;
+	margin-left: 15px;
+	margin-top: 10px;
+}
+.hero2{
+	display: none;
+}
+section div #b{
+	width: 100%;
+	height: 400px;
+}
+#b .bdy{
+	width: 100%;
+	height: 444px;
+	background-color: #9CC6F6;
+	margin-bottom: 10px;
+	margin-right: 23px;
+	float: left;
+}
+#b .bdy p{
+	font-weight: bold;
+	margin-left: 10px;
+	font-size: 20px;
+	}
+#b .b1{
+	width: 67%;
+	height: 150px;
+	background-color: #D0E1FD;
+	float: left;
+	margin-right: 8px;
+	margin-left: 11px;
+	margin-top: 10px;
+}
+#b .b2{
+	display: block;
+	width: 96%;
+	height: 230px;
+	background-color: #D0E1FD;
+	float: left;
+	margin-top: 10px;
+	margin-left:15px;
+	}
+#b .b3{
+	display: block;
+	width: 27%;
+	height: 150px;
+	background-color: #70A7DD;
+	float: left;
+	margin-top: 10px;
+}
+
+#b .sidebar{
+	width: 100%;
+}
+#b .sidebar1{
+	width: 96%;
+}
+footer{
+	margin-top: 10px;
+}
+
+@media screen and (max-width: 420px){
+header {
+	height: 160px;
+}
+.h1{
+	width: 93%;
+	height: 50px;
+	float: left;
+	margin-right: 10px;
+}
+.h2{
+	width: 44.3%;
+	height: 50px;
+	float: left;
+}
+.h3{
+	width: 44.3%;
+	height: 50px;
+	float: left;
+}
+.hero{
+	height: 130px;
+}
+.Heroa{
+	width: 94%;
+}
+
+.Herob{
+	display: none;
+}
+#b .bdy{
+	height: 530px;
+}
+#b .b1{
+    width: 93%;
+}
+#b .b2{
+    width: 93%;
+    height: 160px;
+}
+#b .b3{
+    width: 93%;
+    margin-left: 10px;
+}
+#b .sidebar1 {
+    width: 94%;
+}
+}
