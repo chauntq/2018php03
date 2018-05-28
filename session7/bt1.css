@@ -1,0 +1,237 @@
+
+body{
+	text-align: center;
+}
+header{
+	width: 100%;
+	height: 100px;
+}
+.lg{
+	width: 30%;
+	height: 100px;
+	border: 2px solid pink;
+	float: left;
+}
+.slogan{
+	width: 68.5%;
+	height: 100px;
+	border-right: 2px solid pink;
+	border-bottom: 2px solid pink;
+	border-top: 2px solid pink;
+	float: left;
+}
+.slide{
+	width: 98.7%;
+	height: 200px;
+	border-left: 2px solid pink;
+	border-right: 2px solid pink;
+	border-bottom: 2px solid pink;
+}
+.new{
+	width: 100%;
+	height: 200px;
+}
+.new1{
+	width: 33.1%;
+	height: 200px;
+	float: left;
+	border-left: 2px solid pink;
+	border-right: 2px solid pink;
+	border-bottom: 2px solid pink;
+	float: left;
+}
+.new2{
+	width: 32.1%;
+	height: 200px;
+	float: left;
+	border-bottom: 2px solid pink;
+	float: left;}
+.new3{
+	width: 33.1%;
+	height: 200px;
+	float: left;
+	border-left: 2px solid pink;
+	border-bottom: 2px solid pink;
+	float: left;
+	border-right:2px solid pink;
+}
+.article{
+	width: 100%;
+	height: 300px;
+	float: left;
+}
+.a1{
+	width: 49.5%;
+	height: 300px;
+	border-right: 2px solid pink;
+	border-bottom: 2px solid pink;
+	border-left: 2px solid pink;
+	float: left;
+}
+.a2{
+	width: 49%;
+	height: 300px;
+	border-bottom: 2px solid pink;
+	border-right: 2px solid pink;
+	float: left;
+}
+footer{
+	width: 100%;
+	height: 100px;
+}
+.f1{
+	width: 32.8%;
+	height: 100px;
+	float: left;
+	border-left: 2px solid pink;
+	border-right: 2px solid pink;
+	border-bottom: 2px solid pink;
+	float: left;
+}
+.f2{
+	width: 32.4%;
+	height: 100px;
+	float: left;
+	border-bottom: 2px solid pink;
+	float: left;
+}
+.f3{
+	width: 33.1%;
+	height: 100px;
+	float: left;
+	border-left: 2px solid pink;
+	border-bottom: 2px solid pink;
+	float: left;
+	border-right:2px solid pink;
+}
+@media screen and (max-width: 768px){
+header{
+	width: 100%;
+	height: 100px;
+	float: left;
+}
+.lg{
+	width: 49.2%;
+	height: 100px;
+	border-right: 2px solid pink;
+	border-bottom: 2px solid pink;
+	border-left: 2px solid pink;
+	float: left;
+}
+.slogan{
+	width: 49.2%;
+	height: 100px;
+	border-bottom: 2px solid pink;
+	border-right: 2px solid pink;
+	float: left;
+}
+.new1{
+	width: 49.2%;
+	height: 200px;
+	border-right: 2px solid pink;
+	border-bottom: 2px solid pink;
+	border-left: 2px solid pink;
+	float: left;
+}
+.new2{
+	width: 49.2%;
+	height: 200px;
+	border-bottom: 2px solid pink;
+	border-right: 2px solid pink;
+	float: left;
+}
+.new3{
+	width: 98.7%;
+	height: 200px;
+	border-bottom: 2px solid pink;
+	border-right: 2px solid pink;
+	float: left;
+}
+.a1{
+	width: 49.2%;
+	height: 300px;
+	border-right: 2px solid pink;
+	border-bottom: 2px solid pink;
+	border-left: 2px solid pink;
+	float: left;
+}
+.a2{
+	width: 49.2%;
+	height: 300px;
+	border-bottom: 2px solid pink;
+	border-right: 2px solid pink;
+	float: left;
+}
+.f1{
+	width: 49.2%;
+	height: 100px;
+	border-right: 2px solid pink;
+	border-bottom: 2px solid pink;
+	border-left: 2px solid pink;
+	float: left;
+}
+.f2{
+	width: 49.2%;
+	height: 100px;
+	border-bottom: 2px solid pink;
+	border-right: 2px solid pink;
+	float: left;
+}
+.f3{
+	width: 98.7%;
+	height: 100px;
+	border-bottom: 2px solid pink;
+	border-right: 2px solid pink;
+	float: left;
+}
+}
+@media screen and (max-width: 480px){
+	.lg{
+		width: 100%;
+		height: 100px;
+	}
+	.slogan{
+		display: none;
+	}
+	.slide{
+		width: 100%;
+		border-top: none;
+	}
+	.new1{
+		width: 100%;
+		height: 100px;
+	}
+	.new2{
+		width: 100%;
+		height: 100px;
+		border-left: 2px solid pink;
+	}
+	.new3{
+		display: none;
+	}
+	.article{
+	width: 100%;
+	height: 200px;
+	float: left;
+}
+	.a1{
+		width: 100%;
+		height: 100px;
+	}
+	.a2{
+		width: 100%;
+		height: 100px;
+		border-left: 2px solid pink;
+	}
+	.f1{
+		width: 100%;
+		height: 100px;
+	}
+	.f2{
+		width: 100%;
+		height: 100px;
+		border-left: 2px solid pink;
+	}
+	.f3{
+		display: none;
+	}

@@ -1,0 +1,14 @@
+#header{
+	height: 150px;
+	border: 2px solid red;
+	margin-bottom: 20px;
+}
+#content{
+	height: 150px;
+	border: 2px solid red;
+	margin-bottom: 20px;
+}
+#footer{
+	height: 150px;
+	border: 2px solid red;
+}

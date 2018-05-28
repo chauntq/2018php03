@@ -1,0 +1,112 @@
+body{width: 80%;
+	margin-left: 111px;
+}
+ul{
+	color:  #F5F5F5;
+
+}
+header{
+	height: 90px;
+	width: 100%;
+	float: left;
+	margin-bottom: -20px;
+	text-align: center;
+}
+.name{
+	width: 42%;
+	color: pink;
+	float: left;
+}
+.position{
+	width: 53%; 
+	background-color: pink;
+	color: white;
+	float: left;
+
+}
+.profile{
+	width: 100%;
+	margin-left: 14px;
+}
+.profile-left{
+	width: 30%;
+	float: left;
+	margin-left: 69px;
+	}
+.profile-left img{
+	text-align: center;
+	margin-left: 20px; 
+}
+
+section div{
+	margin-left: 20px;
+}
+.profile{
+	height: 21px;
+	color: #F5F5F5;}
+
+.pl1{
+	background-color: pink;
+	margin-top: -21px;
+}
+section h2{
+	color: white;
+}
+
+section p{
+	color: #F5F5F5;
+}
+.skill{
+	width: 100%
+}
+.skill ul{
+	color:  #F5F5F5;
+	margin-left: -10px;
+
+}
+.skill-1{
+	margin-top: -9px;
+	margin-left: 10px;
+}
+.profile-right h2{
+	color: pink;
+}
+.profile-right p{
+	color: black;
+}
+.profile-right {
+	width: 60%;
+	float: right;
+	margin-right: -5px;
+	
+}
+.note{
+	width: 100%;
+}
+.name2{
+	width: 60%;
+	height: 58px;
+	float: left;}
+.time{
+	width: 30%;
+	float: left;
+	margin-top: 21px;
+	margin-bottom: 21px;
+}
+.note1{
+	width: 100%;
+}
+.name1{
+	width: 43%;
+	height: 58px;
+	float: left;}
+.boder{
+	width: 38%;
+    float: left;
+    margin-top: 33px;
+    margin-bottom: 28px;
+    border-bottom: 2px solid pink;
+    margin-right: 56px;
+
+}
+}
